@@ -82,3 +82,6 @@ Software Development Life Cycle:
 
 ![image](https://user-images.githubusercontent.com/115154775/194603911-055f5544-a97a-4dc4-868a-332d0bae8dbf.png)
 
+How to upload a variable into Operating System:
+
+![image](https://user-images.githubusercontent.com/115154775/194610700-f50f8cf4-3523-4d46-90dc-dac39ed782ad.png)
